@@ -1,0 +1,13 @@
+{
+    "name": "darina/telegrambot",
+    "description": "Description of your Telegram bot project",
+    "autoload": {
+        "psr-4": {
+            "TelegramBot\\": "src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.8",
+        "ext-pdo": "*"
+    }
+}
